@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">AndroidSchoolPractice</string>
     <string name="action_settings">Settings</string>
+    <string name="test">Test</string>
+    <string name="good_day_sir">Good Day sir!</string>
+    <string name="todo">TODO</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
 </resources>
